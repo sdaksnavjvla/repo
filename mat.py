@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import sqlite3 as lit
 
 def main():
@@ -14,3 +15,10 @@ def main():
         db.close()
 
 main()
+=======
+print("giuco se indentifica drept o masa de calcat cu pronumele they/them")
+'''
+De asemenea tin sa ma mentionez ca sunt pansexual si doresc un partener non-binar identificabil prin pronumele Eu/Lui cu care sa impartasesc
+dorintele carnale
+'''
+>>>>>>> d4861154c61eab82e443dcd2c63a0c48c59492e2
