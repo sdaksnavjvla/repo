@@ -1,0 +1,1 @@
+print("giuco se indentifica drept o masa de calacat")
